@@ -7,5 +7,4 @@ The denoising model source code is in `Denoising_model/`.
 
 The trained model checkpoints and generated image data can be downloaded from Hugging Face:
 
-[https://huggingface.co/Yanggenfan/RIS_MoE
-](https://huggingface.co/Angel-cell/RIS_MoE)
+https://huggingface.co/Angel-cell/RIS_MoE/tree/main
