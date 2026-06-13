@@ -1,0 +1,3 @@
+Denoising_model/**/*.pt
+Denoising_model/**/__pycache__/
+Denoising_model/**/*.pyc
