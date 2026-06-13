@@ -3,4 +3,9 @@ RIS-MoE: Robust and Secure Image Steganography via Latent-Space Optimization wit
 
 The denoising model source code is in `Denoising_model/`.
 
-Files over GitHub's 100 MB limit are not tracked in this repository.
+## Model and Data
+
+The trained model checkpoints and generated image data can be downloaded from Hugging Face:
+
+[https://huggingface.co/Yanggenfan/RIS_MoE
+](https://huggingface.co/Angel-cell/RIS_MoE)
