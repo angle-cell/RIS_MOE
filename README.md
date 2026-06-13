@@ -3,4 +3,4 @@ RIS-MoE: Robust and Secure Image Steganography via Latent-Space Optimization wit
 
 The denoising model source code is in `Denoising_model/`.
 
-Large `.pt` model checkpoints and dataset tensors are not tracked in this GitHub repository.
+Files over GitHub's 100 MB limit are not tracked in this repository.
